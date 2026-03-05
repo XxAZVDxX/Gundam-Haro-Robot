@@ -27,6 +27,11 @@ Gundam-themed mobile app built with **Flutter**:
 ## 🛠️ Hardware
 
 ### Current Specs
-- **Controller**: [TODO: e.g. Raspberry Pi + ESP32]
-- **Power**: [TODO: 6 cells 21700 24V]
+- **Controller**: Raspberry Pi + ESP32 + Pico2
+- **Power**: 6 cells 21700 24V
+- **GPS**: ATGM336H-5N
+- **Can Bus**: MCP2518fd / MCP2515
+- **PWM Servo Controller**: PCA9685
+- **Motor**: GIM4305
+- **Wireless Charger**: 24V 60W
 - **Body**: 3D print robot size around 25cm
