@@ -1,4 +1,4 @@
-# Gundam Haro Robot ハロ
+# Gundam Haro Robot ハロ 
 
 > **"Haro! Haro!"** — Turning the iconic spherical companion from *Mobile Suit Gundam* into a real, bouncing robot!
 
@@ -22,7 +22,7 @@ Gundam-themed mobile app built with **Flutter**:
 - Streaming screen from Pi
 - Joystick
 - Status monitoring
-- Show on Haro and Controller device on Maps
+- GPS maps
 
 ## 🛠️ Hardware
 
@@ -30,8 +30,11 @@ Gundam-themed mobile app built with **Flutter**:
 - **Controller**: Raspberry Pi + ESP32 + Pico2
 - **Power**: 6 cells 21700 24V
 - **GPS**: ATGM336H-5N
+- **IMU**: LSM6DS3TR
 - **Can Bus**: MCP2518fd / MCP2515
 - **PWM Servo Controller**: PCA9685
 - **Motor**: GIM4305
+- **Microphone**: ICS434343
+- **Speaker**:  MAX98357
 - **Wireless Charger**: 24V 60W
 - **Body**: 3D print robot size around 25cm
