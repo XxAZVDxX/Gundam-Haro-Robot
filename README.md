@@ -16,6 +16,7 @@
 - Ubuntu
 
 ### Haro's Meterial:
+- Case: TPU, ABS
 - Battery: 2 x 6 cells 21700 Li-ion Batterise (5000 mah per)
 - Master Board: Raspberry Pi 4B (4GB)
 - Board-1: ESP32 S3 N16R8
@@ -30,10 +31,13 @@
 - Speaker: 6 x speaker
 - IMU: ?
 
+
+
   
 ...
   
 ### Haros Charging Station's Meterial: 
+- Case: ABS
 - Battery: 6 cells 21700 Li-ion Batterise (5000 mah per)
 - Charger: Wireless Charging Module
 
