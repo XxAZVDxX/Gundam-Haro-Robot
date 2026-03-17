@@ -1,4 +1,4 @@
-# Haro Robot (Ball Robot)
+# Haro Robot (Ball Robot) --- Under Development
  Try To Make A Real Haro!
  
 <img width="483" height="483" alt="image" src="https://github.com/user-attachments/assets/516bea0d-4817-4680-8cfc-950c51ec8443" />
@@ -17,7 +17,7 @@
 
 ### Haro's Meterial:
 - Battery: 2 x 6 cells 21700 Li-ion Batterise (5000 mah per)
-- Master Board: Raspberry Pi 4B (4GB
+- Master Board: Raspberry Pi 4B (4GB)
 - Board-1: ESP32 S3 N16R8
 - Board-2: Raspberry Pi Pico 2 16MB
 - Can Bus: MCP2518FD
