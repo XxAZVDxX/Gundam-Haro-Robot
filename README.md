@@ -8,8 +8,7 @@
 ### Mode:
 - Stand
 - Roll
-- Wheel (future)
-
+- Wheel (Future)
 - Fly (Future)
 
 ### OS System:
