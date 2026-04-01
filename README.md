@@ -30,13 +30,10 @@
 - Speaker: 6 x speaker
 - IMU: ?
 
-
-
   
 ...
   
 ### Haros Charging Station's Meterial: 
-- Case: ABS
 - Battery: 6 cells 21700 Li-ion Batterise (5000 mah per)
 - Charger: Wireless Charging Module
 
@@ -60,7 +57,8 @@
 
 
 - MacOS
-?
+<img width="1112" height="812" alt="image" src="https://github.com/user-attachments/assets/de24ffad-266c-4e18-8b58-9b2f66d78318" />
+
 
 
 - Linux
